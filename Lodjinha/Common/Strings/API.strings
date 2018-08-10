@@ -1,0 +1,12 @@
+/* 
+  API.strings
+  Lodjinha
+
+  Created by Lázaro Lima dos Santos on 09/08/18.
+  
+*/
+
+"categories" = "https://alodjinha.herokuapp.com/categoria";
+"productsBestSeller" = "https://alodjinha.herokuapp.com/produto/maisvendidos";
+"banners" = "https://alodjinha.herokuapp.com/banner";
+"product" = "https://alodjinha.herokuapp.com/produto/";

@@ -1,0 +1,12 @@
+/* 
+  NetworkError.strings
+  Lodjinha
+
+  Created by Lázaro Lima dos Santos on 09/08/18.
+  
+*/
+
+"mapping" = "An unexpected error occurred while communicating with the server.";
+"weakConnection" = "Apparently your connection is weak.";
+"offline" = "You are currently offline.";
+"other" = "An unexpected error has occurred.";
